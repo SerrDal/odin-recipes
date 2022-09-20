@@ -1,2 +1,2 @@
 # odin-recipes
-I'm going to build a basic recipe website!
+A basic HTML website that shows some recipes built for The Odin Project course
